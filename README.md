@@ -64,8 +64,8 @@ https://github.com/jdawk123/Case-Study-02/blob/main/LICENSE
 <!-- CONTACT -->
 ## Contact
 
-Jeremy Dawkins - [@linkedIn](https://www.linkedin.com/in/jeremydawkins/) - JeremyDawkins80@gmail.com
-
+Jeremy Dawkins - [@linkedIn](https://www.linkedin.com/in/jeremydawkins/)
+My Email - [@email](jeremydawkins80@gmail.com)
 Project Youtube Link: [@youtube]
 
 
