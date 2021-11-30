@@ -49,8 +49,19 @@ You will then need to load the package after installing for example:
   library(dplyr)
   ```
 Packages Included In This Project is:
--library(dplyr)   #For string functions/heavy use of this library
-
+-library(dplyr)  #Allows us to pipe data frames to wrangle data we want to analyze
+-library(ggplot2) #Allows us to connect data frames with graphs
+-library(ggpubr) #Allows us to arrange any plots on 1 chart to display
+-library(hrbrthemes) #Allows us to use the theme function when graphing
+-library(GGally)    #Allows us to use our correlation matrix
+-library(Hmisc)    #Allow us to find the correlation between variables with pvalues included
+-library(olsrr)   #To do a variable/ parameter selection of the predictors
+-library(caret)   #Use to for the K-fold cross validation of our model
+-library(car)    #To look at the added variable plots of the regression model
+-library(e1071) #use of the classification model knn and knn.cv
+-library(class) #Use of the cross validations techniques
+-library(Metrics) #Use for the Rmse() function
+-library(leaps) #use for best predictors variables for salary
 <!-- Usage -->
 ## Usage
 
